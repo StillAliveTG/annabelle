@@ -16,7 +16,7 @@ I have the following features. Tap the button in which you want help."""
 - <a href=https://t.me/Dianasupport>Team Diana</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and Annabelle will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
 1. Annabelle should have admin privillage.
