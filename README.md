@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="assets/logo.jpg" alt="kunajppan2.0 Logo">
+  <img src="https://telegra.ph/file/d2a6abfe3fbcfe63a906e.jpg" alt="annabelle Logo">
 </p>
 <h1 align="center">
-  <b>kunjappan 2.0</b>
+  <b>Annabelle</b>
 </h1>
 
 
-[![Stars](https://img.shields.io/github/stars/hopepsycho/kunjappan2.0?style=flat-square&color=yellow)](https://github.com/hopepsycho/kunjappan2.0/stargazers)
-[![Forks](https://img.shields.io/github/forks/hopepsycho/kunjappan2.0?style=flat-square&color=orange)](https://github.com/hopepsycho/kunjappan2.0fork)
+[![Stars](https://img.shields.io/github/stars/vaishnavofficial/annabelle?style=flat-square&color=yellow)](https://github.com/hopepsycho/kunjappan2.0/stargazers)
+[![Forks](https://img.shields.io/github/forks/vaishnavofficial/annabelle?style=flat-square&color=orange)](https://github.com/hopepsycho/kunjappan2.0fork)
 [![Size](https://img.shields.io/github/repo-size/hopepsycho/kunjappan2.0?style=flat-square&color=green)](https://github.com/hopepsycho/kunjappan2.0/)   
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/hopepsycho/kunjappan2.0)   
 [![Contributors](https://img.shields.io/github/contributors/hopepsycho/kunjappan2.0?style=flat-square&color=green)](https://github.com/hopepsycho/kunjappan2.0/graphs/contributors)
