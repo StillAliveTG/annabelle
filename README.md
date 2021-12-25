@@ -105,7 +105,7 @@ python3 bot.py
 
 ## Credits 
 * [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/kunjappandevs)
-
+**This is a fork of [EVA MARIA](https://github.com/EvaMariaTG/EvaMaria)**
 
 ## Thanks to 
  - Thanks To Dan For His Awsome [Libary](https://github.com/hopepsycho/psycho)
